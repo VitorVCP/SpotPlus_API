@@ -1,6 +1,6 @@
 #  Spot+
 
-Spot+ é uma API REST desenvolvida em ASP.NET Core para auxiliar no gerenciamento de estacionamentos, oferecendo recursos para controle de vagas, veículos, clientes e movimentações.
+Spot+ é uma API desenvolvida em ASP.NET Core para auxiliar no gerenciamento de estacionamentos, oferecendo recursos para controle de vagas, veículos, clientes e movimentações.
 
 ##  Sobre o Projeto
 
