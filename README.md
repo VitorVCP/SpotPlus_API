@@ -21,6 +21,7 @@ O Spot+ foi criado com o objetivo de modernizar a gestão de estacionamentos, pr
 - Entity Framework Core
 - SQL Server
 - Swagger/OpenAPI
+- Git
 
 ## 📂 Estrutura do Projeto
 
