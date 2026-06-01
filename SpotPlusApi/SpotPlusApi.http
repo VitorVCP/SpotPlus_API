@@ -1,0 +1,6 @@
+@SpotPlusApi_HostAddress = http://localhost:5056
+
+GET {{SpotPlusApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
